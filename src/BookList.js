@@ -7,7 +7,7 @@ export default function BookList() {
           <Link to="/newbook">Newbook</Link>
         </li>
         <li>
-          {/* <Link to="/books">Books</Link> */}
+          <Link to="/books">Books</Link>
         </li>
       </aside>
       <h1>BookList</h1>
